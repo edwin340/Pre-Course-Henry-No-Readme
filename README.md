@@ -1,2 +1,1 @@
-# Pre-Henry
-Este es un repositorio del modulo dos del pre henry
+Este es un proyecto de prueba de como puedo crear un repositorio y clonarlos desde gihub a mi computadora
